@@ -11,9 +11,9 @@ Oleh karena itu, dibangun sebuah sistem GIS berbasis web yang menampilkan lokasi
 Studi kasus ini merupakan simulasi pembelajaran berdasarkan penerapan GIS dalam asset and property management, sebagaimana dijelaskan pada materi pemateri.
 
 4. Rumusan Masalah
-1. Bagaimana menampilkan lokasi aset infrastruktur dalam bentuk peta digital?
-2. Bagaimana memberikan informasi jenis dan kondisi setiap aset?
-3. Bagaimana membantu pengguna mengidentifikasi aset yang membutuhkan pemeliharaan
+- Bagaimana menampilkan lokasi aset infrastruktur dalam bentuk peta digital?
+- Bagaimana memberikan informasi jenis dan kondisi setiap aset?
+- Bagaimana membantu pengguna mengidentifikasi aset yang membutuhkan pemeliharaan
    
 5. Tujuan Proyek
 - Membuat peta digital yang menampilkan persebaran aset infrastruktur.
